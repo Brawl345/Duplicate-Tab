@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "default_locale": "en",
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "author": "Andreas Bielawski",
+  "version": "1.0",
+  "icons" : {
+    "32" : "icons/32.png",
+    "64" : "icons/64.png"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  
+  "commands": {
+    "duplicate-tab": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Y"
+      }
+    }
+  },
+  
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ]
+
+}

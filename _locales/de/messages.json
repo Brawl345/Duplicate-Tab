@@ -1,0 +1,13 @@
+{
+  "extensionName": {
+    "message": "Dupliziere Tab"
+  },
+
+  "extensionDescription": {
+    "message": "Dupliziere sehr einfach einen Tab."
+  },
+  
+  "contextMenuTitle": {
+    "message": "Tab duplizieren"
+  }
+}

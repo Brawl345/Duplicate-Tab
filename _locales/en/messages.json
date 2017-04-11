@@ -1,0 +1,13 @@
+{
+  "extensionName": {
+    "message": "Duplicate Tab"
+  },
+
+  "extensionDescription": {
+    "message": "Easily duplicate a tab."
+  },
+  
+  "contextMenuTitle": {
+    "message": "Duplicate tab"
+  }
+}
